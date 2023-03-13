@@ -239,3 +239,5 @@ weekday=（weekday+2-5）？（weekday+2-5）：（weekday+2）；
 ![sample](res/sample10.png)
 
 ### 10.3 解答
+
+[8种排序算法的比较案例](10.8种排序算法的比较案例/10_8种排序算法的比较案例.md)
